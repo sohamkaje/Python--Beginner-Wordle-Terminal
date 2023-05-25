@@ -3,3 +3,4 @@ This program allows the user to play with the terminal by randomly generating a 
 - B means black, this means that the letter in that position is not in the chosen word
 - Y means yellow, this corresponding letter is in the final word but its not in the correct spot
 - G means green, the letter that matches the position of the word is the right letter in the right spot
+You're given 6 chances to guess the word, so use the information given wisely.
